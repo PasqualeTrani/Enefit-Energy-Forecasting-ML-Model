@@ -1,2 +1,3 @@
 # Enefit-Energy-Forecasting-ML-Model
-The repository contains the code for building a Machine Learning Model for the Kaggle Competition "Enefit - Predict Energy Behavior of Prosumers"  
+The repository contains the code for building a Machine Learning Model for the Kaggle Competition "Enefit - Predict Energy Behavior of Prosumers", where the challenge is to predict the amount of electricity produced and consumed by Estonian energy customers who have installed solar panels. The data mainly consist of weather data, the relevant energy prices, and records of the installed photovoltaic capacity. 
+If you want more details about the competition and the data or if you want to download the data itself, you may see the official link of the competition https://www.kaggle.com/competitions/predict-energy-behavior-of-prosumers/data
